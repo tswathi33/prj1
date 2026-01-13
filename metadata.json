@@ -1,0 +1,9 @@
+{
+  "name": "Collegemain",
+  "description": "A comprehensive digital companion for students, faculty, and administrators to manage academic schedules, attendance, notices, and campus navigation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
